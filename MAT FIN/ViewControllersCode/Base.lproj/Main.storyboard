@@ -94,7 +94,7 @@
                                     <action selector="playprice:" destination="LMx-xG-oaQ" eventType="touchUpInside" id="u6L-hm-Nlo"/>
                                 </connections>
                             </button>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="cIM-L2-lRw">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="cIM-L2-lRw">
                                 <rect key="frame" x="33" y="498" width="349" height="197"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -705,14 +705,15 @@
                                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="QC7-mi-rGd">
                                                         <rect key="frame" x="16" y="147" width="297" height="353"/>
                                                         <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" heightSizable="YES" flexibleMaxY="YES"/>
-                                                        <string key="text">Payback é um modelo tipicamente usado porem grosseiro de calcular o retorno de um investimento.Basicamente esse modelos consiste em somar se todos os rendimentos futuros ate atingir o “payback” em que se cobre o custo do investimento.porem, esse metodo negligencia o valor do dinheiro no tempo e portanto a matematica financeira.</string>
+                                                        <string key="text">Payback é um modelo tipicamente usado porém grosseiro de calcular o retorno de um investimento. Basicamente esse modelos consiste em somar todos os rendimentos futuros até que se atingir o “payback”, momento em que se cobre o custo do investimento. Porém, esse método negligencia o valor do dinheiro no tempo e portanto a matemática financeira.</string>
                                                         <fontDescription key="fontDescription" type="boldSystem" pointSize="18"/>
                                                         <nil key="textColor"/>
                                                         <nil key="highlightedColor"/>
                                                     </label>
-                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Vamos agora ver em maior detalhe quais sao os métodos de analise e avaliação de projetos e ver quais são suas vantagens." textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="1jQ-zW-HTJ">
+                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="1jQ-zW-HTJ">
                                                         <rect key="frame" x="16" y="0.0" width="297" height="165"/>
                                                         <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" heightSizable="YES" flexibleMaxY="YES"/>
+                                                        <string key="text">Vamos agora ver em maior detalhe quais são os métodos de análise e avaliação de projetos e ver quais são suas respectivas vantagens.</string>
                                                         <fontDescription key="fontDescription" type="boldSystem" pointSize="20"/>
                                                         <nil key="textColor"/>
                                                         <nil key="highlightedColor"/>
@@ -748,7 +749,7 @@
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="YEy-iT-1G9">
                                                 <rect key="frame" x="59" y="763" width="297" height="253"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" heightSizable="YES" flexibleMaxY="YES"/>
-                                                <string key="text">Valor presente liquido é o metodo de analise de investimento em que se calcula a soma de saidas e entradas de valores futuros num data presente.Esse metodo leva em consideraçao o valor do dinheiro no tempo e serve para comparar valores no presente.</string>
+                                                <string key="text">Valor presente líquido é o método de analise de investimento em que se calcula a soma de saidas e entradas de valores futuros em uma data presente. Esse método leva em consideração o valor do dinheiro no tempo e serve para comparar valores na data presente.</string>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="18"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
@@ -756,7 +757,7 @@
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="M0O-9Z-Nz9">
                                                 <rect key="frame" x="47" y="1088" width="297" height="282"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" heightSizable="YES" flexibleMaxY="YES"/>
-                                                <string key="text">Taxa interna de retorno é o metodo de analise que calcula a taxa necessaria pra que todos os valores de entradas e saidas igualam se no presente ou seja que o Valor presente liquido seja igual a 0.Compara se o taxa de retorno desejada com a IRR, se a taxa desejada for menor que a IRR o investimento é lucrativo.</string>
+                                                <string key="text">Taxa interna de retorno é o método de análise que calcula a taxa necessária para que todos os valores de entradas e saidas igualem se no presente, ou seja, que o Valor presente liquido seja igual a 0. Compara-se a taxa de retorno desejada com a IRR, se a taxa desejada for menor que a IRR o investimento é lucrativo e deve ser realizado.</string>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="18"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
@@ -841,9 +842,9 @@
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="aRY-Ld-boM">
-                                                <rect key="frame" x="59" y="348" width="297" height="282"/>
+                                                <rect key="frame" x="59" y="348" width="297" height="271"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" heightSizable="YES" flexibleMaxY="YES"/>
-                                                <string key="text">•Se a avaliação financeira para aceitação de um projeto de investimento inicial de R$ 1.000 e fluxo de caixa com duas entradas anuais e postecipadas de R$ 600, a uma taxa mínima de atratividade de 10% ao ano, for feita pelo critério do valor presente líquido (VPL), então o projeto deverá ser aceito. </string>
+                                                <string key="text">•Se a avaliação financeira para aceitação de um projeto de investimento inicial de R$ 1.000 e fluxo de caixa com duas entradas anuais e postecipadas de R$ 600, a uma taxa mínima de atratividade de 10% ao ano, for feita pelo critério do valor presente líquido (VPL), então o projeto deverá ser aceito.  Veja como usamos a HP12C para descobrir isso:</string>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="19"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
@@ -975,7 +976,7 @@
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
-                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="•Vamos supor uma situação em que deve se avaliar um investimento de acordo com o metodo VPL.Como fazemos isso com a HP12C?" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="Btg-N7-4xC">
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="•Vamos supor uma situação em que deve-se avaliar um investimento de acordo com o metodo VPL. Como fazemos isso com a HP12C?" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="Btg-N7-4xC">
                                                 <rect key="frame" x="59" y="207" width="297" height="133"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" heightSizable="YES" flexibleMaxY="YES"/>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="19"/>
@@ -1095,10 +1096,10 @@
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="S3W-bd-2yI">
-                                                <rect key="frame" x="59" y="312" width="297" height="267"/>
+                                                <rect key="frame" x="59" y="312" width="297" height="252"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" heightSizable="YES" flexibleMaxY="YES"/>
                                                 <string key="text">•Determinar o valor presente líquido e a taxa interna de retorno do fluxo de caixa
-indicado a seguir, para uma taxa efetiva de 9% ao ano, com um investimento inicial de 20000 e rendimentos postecipados de 5000 nos primeiros 2 meses e 4000 nos meses em seguida no regime de juros compostos.</string>
+indicado a seguir, para uma taxa efetiva de 9% ao ano, com um investimento inicial de R$20000 e rendimentos postecipados de R$5000 nos primeiros 2 meses e 4000 nos meses em seguida no regime de juros compostos.</string>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="16"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
@@ -1234,9 +1235,10 @@ indicado a seguir, para uma taxa efetiva de 9% ao ano, com um investimento inici
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
-                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="•Vamos supor uma situação em que deve se avaliar um investimento de acordo com o metodo IRR.Como fazemos isso com a HP12C?" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="UFz-co-h0Z">
-                                                <rect key="frame" x="65" y="160" width="297" height="156"/>
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="UFz-co-h0Z">
+                                                <rect key="frame" x="65" y="174" width="297" height="142"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" heightSizable="YES" flexibleMaxY="YES"/>
+                                                <string key="text">•Vamos supor uma situação em que deve-se avaliar um investimento de acordo com o método IRR. Como fazemos isso com a HP12C? Veremos abaixo um exemplo.</string>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="16"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
@@ -1292,6 +1294,14 @@ indicado a seguir, para uma taxa efetiva de 9% ao ano, com um investimento inici
                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="BgV-IM-YPy">
                                         <rect key="frame" x="0.0" y="0.0" width="414" height="2500"/>
                                         <subviews>
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="71y-AB-Bde">
+                                                <rect key="frame" x="22" y="839" width="368" height="940"/>
+                                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                <color key="backgroundColor" red="1" green="0.63509179270000005" blue="0.58795608460000004" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                                <color key="textColor" red="1" green="0.63509179270000005" blue="0.58795608460000004" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                <nil key="highlightedColor"/>
+                                            </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Inflação" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="Bpn-tL-VGC">
                                                 <rect key="frame" x="48" y="60" width="318" height="59"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" heightSizable="YES" flexibleMaxY="YES"/>
@@ -1300,58 +1310,50 @@ indicado a seguir, para uma taxa efetiva de 9% ao ano, com um investimento inici
                                                 <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
-                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="wWM-3K-3Ng">
-                                                <rect key="frame" x="59" y="127" width="297" height="189"/>
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="wWM-3K-3Ng">
+                                                <rect key="frame" x="59" y="140" width="318" height="174"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" heightSizable="YES" flexibleMaxY="YES"/>
-                                                <string key="text">•Inflação e um termo que remete basicamente a um aumento generalizado do preços na economia.Indicamos esse valor por uma taxa(%) que indica a variaçao percentual dos preços.</string>
-                                                <fontDescription key="fontDescription" type="boldSystem" pointSize="18"/>
+                                                <string key="text">•Inflação é um termo que remete basicamente a um aumento generalizado do preços na economia. Indicamos esse valor por uma taxa(%) que indica a variação percentual dos preços.</string>
+                                                <fontDescription key="fontDescription" name="Copperplate-Bold" family="Copperplate" pointSize="25"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
-                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="w9V-KW-aH0">
-                                                <rect key="frame" x="59" y="354" width="297" height="189"/>
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="w9V-KW-aH0">
+                                                <rect key="frame" x="41" y="515" width="333" height="150"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" heightSizable="YES" flexibleMaxY="YES"/>
-                                                <string key="text">•Dizemos em geral que quando ocorre inflação o dinheiro(a moeda) esta perdendo seu poder de compra pois é necessario maiores quantias para pagar pelas mesmas coisas.</string>
-                                                <fontDescription key="fontDescription" type="boldSystem" pointSize="18"/>
-                                                <nil key="textColor"/>
-                                                <nil key="highlightedColor"/>
-                                            </label>
-                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="xPg-Mh-gg1">
-                                                <rect key="frame" x="48" y="551" width="297" height="202"/>
-                                                <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" heightSizable="YES" flexibleMaxY="YES"/>
-                                                <string key="text"> existem tipos de Inflação que ocorrem por uma serie de motivos: Inflação de demanda,Inflação de custos,Inflação inercial,Inflação estrutural.Vamos ver cada um desses tipos em maior detalhe:</string>
+                                                <string key="text">•Dizemos em geral que quando ocorre inflação o dinheiro (a moeda) está perdendo seu poder de compra pois é necessario maiores quantias para pagar pelas mesmas coisas.</string>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="18"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="XGF-3R-3UC">
-                                                <rect key="frame" x="48" y="785" width="297" height="150"/>
+                                                <rect key="frame" x="38" y="848" width="339" height="141"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" heightSizable="YES" flexibleMaxY="YES"/>
-                                                <string key="text"> Inflação de demanda-Esse tipo de inflação é caracterizado pelo forte  aumento da demanda em realação a oferta, assim elevando os preços.</string>
+                                                <string key="text">•Inflação de demanda-Esse tipo de inflação é caracterizado pelo forte  aumento da demanda em relação a oferta, assim elevando os preços.</string>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="18"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="UWi-VR-JaM">
-                                                <rect key="frame" x="48" y="965" width="297" height="150"/>
+                                                <rect key="frame" x="48" y="997" width="329" height="150"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" heightSizable="YES" flexibleMaxY="YES"/>
-                                                <string key="text">Inflação de custos-Esse tipo de inflação acontece quando uma materia prima basica encarece e esse custo é repassado aos preçøs encarecendo o produto.</string>
+                                                <string key="text">Inflação de custos-Esse tipo de inflação acontece quando uma matéria prima basica encarece e esse custo é repassado aos preços finais, encarecendo o produto.</string>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="18"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="2Hf-58-Zdq">
-                                                <rect key="frame" x="48" y="1155" width="297" height="208"/>
+                                                <rect key="frame" x="48" y="1167" width="318" height="208"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" heightSizable="YES" flexibleMaxY="YES"/>
-                                                <string key="text">Inflação inercial-Esse tipo de inflação ocorres por inercia ou por motivaçoes psicologicas das massas.Se muitas pessoas acreditam que a inflação ira aumentar, e bastante possivel que isso ocorra por inercia.</string>
+                                                <string key="text">•Inflação inercial-Esse tipo de inflação ocorre por inércia ou por motivações psicologicas das massas. Se muitas pessoas acreditam que a inflação irá aumentar torna-se bastante possível que isso ocorra por inércia.</string>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="18"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="P0V-4p-bjp">
-                                                <rect key="frame" x="48" y="1395" width="297" height="188"/>
+                                                <rect key="frame" x="48" y="1395" width="318" height="188"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" heightSizable="YES" flexibleMaxY="YES"/>
-                                                <string key="text"> Inflação de Estrutural-Esse tipo de inflação se assemelha a inflação de custos porem direre no pato de que os produtos sao encarecidos por uma falta de estrutura.</string>
+                                                <string key="text">•Inflação de Estrutural-Esse tipo de inflação se assemelha a inflação de custos porem direre no fato de que os produtos são encarecidos por uma falta de estrutura.</string>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="18"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
@@ -1359,7 +1361,7 @@ indicado a seguir, para uma taxa efetiva de 9% ao ano, com um investimento inici
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="8hB-Fr-DAK">
                                                 <rect key="frame" x="48" y="1860" width="297" height="170"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" heightSizable="YES" flexibleMaxY="YES"/>
-                                                <string key="text"> Deflação é basicamente o processo reverso da infloação, ou seja, é a diminuição dos preços.Para cada tipo de inflação, existe uma deflação correspondente.</string>
+                                                <string key="text">•Deflação é basicamente o processo reverso da inflação, ou seja, é a diminuição dos preços e o aumento do poder de compra da moeda. Para cada tipo de inflação, existe uma deflação correspondente.</string>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="18"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
@@ -1367,12 +1369,12 @@ indicado a seguir, para uma taxa efetiva de 9% ao ano, com um investimento inici
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="QcB-f7-M0u">
                                                 <rect key="frame" x="48" y="2067" width="308" height="176"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" heightSizable="YES" flexibleMaxY="YES"/>
-                                                <string key="text"> IPCA(Indice de preços ao consumidor) é essencialmente o indice oficial que registra a inflação no Brasil.Esse indice é renovado todo mes e é calculado sobre a renda media do brasileiro.</string>
+                                                <string key="text"> IPCA(Índice de preços ao consumidor) é essencialmente o índice oficial que registra a inflação no Brasil. Esse índice é renovado todo mês e é calculado sobre a renda média do brasileiro.</string>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="18"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
-                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="O IGP-M (Indice geral de preços no mercado)é o indice que mede o poder da compra da moeda atraves da variação dos preços." textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="Yha-IW-r3C">
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="O IGP-M (Índice geral de preços no mercado) é o índice que mede o poder da compra da moeda através da variação dos preços." textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="Yha-IW-r3C">
                                                 <rect key="frame" x="48" y="2280" width="297" height="122"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" heightSizable="YES" flexibleMaxY="YES"/>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="18"/>
@@ -1420,9 +1422,21 @@ indicado a seguir, para uma taxa efetiva de 9% ao ano, com um investimento inici
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="5J7-pG-wwK">
-                                                <rect key="frame" x="48" y="1591" width="297" height="188"/>
+                                                <rect key="frame" x="48" y="1591" width="318" height="173"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" heightSizable="YES" flexibleMaxY="YES"/>
-                                                <string key="text"> Inflação gerado pelo emissao de dinheiro-Esse tipo de inflação ocorre quando um banco central decide por mais dinheiro em circulação para estimular a economia.Assim, a inflação tambem cresce.</string>
+                                                <string key="text">•Inflação gerada pela emissão de dinheiro-Esse tipo de inflação ocorre quando um banco central decide por mais dinheiro em circulação para estimular a economia. Assim, a inflação também cresce.</string>
+                                                <fontDescription key="fontDescription" type="boldSystem" pointSize="18"/>
+                                                <nil key="textColor"/>
+                                                <nil key="highlightedColor"/>
+                                            </label>
+                                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="moneyyyy" translatesAutoresizingMaskIntoConstraints="NO" id="NVW-b3-WFj">
+                                                <rect key="frame" x="75" y="335" width="264" height="169"/>
+                                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                            </imageView>
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="xPg-Mh-gg1">
+                                                <rect key="frame" x="26" y="673" width="352" height="167"/>
+                                                <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" heightSizable="YES" flexibleMaxY="YES"/>
+                                                <string key="text"> •Existem tipos de Inflação que ocorrem por uma série de motivos: Inflação de demanda,Inflação de custos, Inflação inercial,Inflação estrutural. Vamos ver cada um desses tipos em maior detalhe:</string>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="18"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
@@ -1456,11 +1470,12 @@ indicado a seguir, para uma taxa efetiva de 9% ao ano, com um investimento inici
                         <outlet property="gg" destination="bPB-uc-OYB" id="rBb-z3-616"/>
                         <outlet property="pp" destination="zNA-uJ-B1d" id="pwG-Zh-jPH"/>
                         <outlet property="rr" destination="BgV-IM-YPy" id="oNs-Ea-poT"/>
+                        <outlet property="yy" destination="71y-AB-Bde" id="Z5J-oF-mqs"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="oeV-PD-cns" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="6412" y="3196"/>
+            <point key="canvasLocation" x="6411.594202898551" y="3194.8369565217395"/>
         </scene>
         <!--Indicedecorrecao View Controller-->
         <scene sceneID="vv2-JW-5Yr">
@@ -1887,7 +1902,7 @@ indicado a seguir, para uma taxa efetiva de 9% ao ano, com um investimento inici
                                                 <rect key="frame" x="28" y="90" width="358" height="237"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" heightSizable="YES" flexibleMaxY="YES"/>
                                                 <color key="backgroundColor" red="1" green="0.63509179270000005" blue="0.58795608460000004" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                                <string key="text">•A analise de investimos consiste em tecnicas financeiras e contabeis para que ser determine qual a melhor opção para se alocar o capita que deseja se aplicar.A analise de investimentos abrange varios tipos de investimentos como compras de imoveis, aplicações finaceiras e compras de titulos por exemplo.</string>
+                                                <string key="text">•A análise de investimos consiste em técnicas financeiras e contábeis para que se determine qual a melhor opção para se alocar o capital que deseja se aplicar. A análise de investimentos abrange varios tipos de investimentos como compras de imóveis, aplicações finaceiras e compras de títulos por exemplo.</string>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="17"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
@@ -1903,9 +1918,9 @@ indicado a seguir, para uma taxa efetiva de 9% ao ano, com um investimento inici
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="kyE-lj-CCe">
                                                 <rect key="frame" x="19" y="371" width="378" height="207"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" heightSizable="YES" flexibleMaxY="YES"/>
-                                                <string key="text">•Vamos estudar quais são as principais ferramentas e tecnicas para avaliar em termos quantitativos qual a melhor alternativa de investimento.Para isso vamo utilizar 3 ferramentas principais e estudar-las especificamente.
+                                                <string key="text">•Vamos estudar quais são as principais ferramentas e técnicas para avaliar em termos quantitativos qual a melhor alternativa de investimento. Para isso vamos utilizar 3 ferramentas principais e estudar-las especificamente.
 
-Os principais metodos de analise sao :</string>
+Os principais metodos de análise são :</string>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="17"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
@@ -2778,7 +2793,7 @@ Os principais metodos de analise sao :</string>
                                                     <constraint firstAttribute="height" constant="66" id="KFk-12-LpW"/>
                                                 </constraints>
                                                 <fontDescription key="fontDescription" name="Rockwell-Bold" family="Rockwell" pointSize="38"/>
-                                                <color key="textColor" red="0.3402243928" green="0.43318527750000002" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Juros simples" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="keE-Kh-vB3">
@@ -9485,7 +9500,7 @@ Os principais metodos de analise sao :</string>
                                     <action selector="playsac:" destination="9DY-V9-qMY" eventType="touchUpInside" id="lxZ-Og-MVT"/>
                                 </connections>
                             </button>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="NHi-wg-5eG">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="NHi-wg-5eG">
                                 <rect key="frame" x="32" y="485" width="349" height="197"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -9530,7 +9545,7 @@ Os principais metodos de analise sao :</string>
                                     <action selector="playsac:" destination="9DY-V9-qMY" eventType="touchUpInside" id="kpt-TM-mYp"/>
                                 </connections>
                             </button>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="XLT-4n-7t8">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="XLT-4n-7t8">
                                 <rect key="frame" x="32" y="491" width="349" height="197"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -9576,7 +9591,7 @@ Os principais metodos de analise sao :</string>
                                     <action selector="playsac:" destination="9DY-V9-qMY" eventType="touchUpInside" id="7VN-1S-2rc"/>
                                 </connections>
                             </button>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="0Ho-qg-brF">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="0Ho-qg-brF">
                                 <rect key="frame" x="33" y="491" width="349" height="197"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -9621,7 +9636,7 @@ Os principais metodos de analise sao :</string>
                                     <action selector="playsac:" destination="9DY-V9-qMY" eventType="touchUpInside" id="Jvp-nb-24s"/>
                                 </connections>
                             </button>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Wdb-IS-I1o">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="Wdb-IS-I1o">
                                 <rect key="frame" x="33" y="519" width="349" height="197"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -9651,7 +9666,7 @@ Os principais metodos de analise sao :</string>
                         <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ZPB-OC-hIV">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="ZPB-OC-hIV">
                                 <rect key="frame" x="33" y="519" width="349" height="197"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -9665,7 +9680,7 @@ Os principais metodos de analise sao :</string>
                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
                             </imageView>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Wzi-QT-jNr">
-                                <rect key="frame" x="33" y="103" width="349" height="612"/>
+                                <rect key="frame" x="33" y="103" width="349" height="562"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="25"/>
                                 <state key="normal" title="Clique na tela para PLAY">
@@ -9706,7 +9721,7 @@ Os principais metodos de analise sao :</string>
                                     <action selector="play:" destination="8O8-vm-lId" eventType="touchUpInside" id="FsW-EP-XYw"/>
                                 </connections>
                             </button>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Gy4-82-2eh">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="Gy4-82-2eh">
                                 <rect key="frame" x="33" y="519" width="349" height="197"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -9751,7 +9766,7 @@ Os principais metodos de analise sao :</string>
                                     <action selector="playy10:" destination="khw-Um-TbA" eventType="touchUpInside" id="etA-ZT-v25"/>
                                 </connections>
                             </button>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="tCJ-9h-vCP">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="tCJ-9h-vCP">
                                 <rect key="frame" x="33" y="485" width="349" height="197"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -9809,7 +9824,7 @@ Os principais metodos de analise sao :</string>
                                     <action selector="play:" destination="8O8-vm-lId" eventType="touchUpInside" id="rFD-4J-hG2"/>
                                 </connections>
                             </button>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="42h-un-Pyy">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="42h-un-Pyy">
                                 <rect key="frame" x="33" y="519" width="349" height="197"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -9852,7 +9867,7 @@ Os principais metodos de analise sao :</string>
                                     <action selector="play:" destination="8O8-vm-lId" eventType="touchUpInside" id="Grv-lG-nvs"/>
                                 </connections>
                             </button>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Jcp-vH-K1l">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="Jcp-vH-K1l">
                                 <rect key="frame" x="33" y="445" width="349" height="197"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -9895,7 +9910,7 @@ Os principais metodos de analise sao :</string>
                                     <action selector="play:" destination="8O8-vm-lId" eventType="touchUpInside" id="Kwq-AZ-oIu"/>
                                 </connections>
                             </button>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="XLk-wd-0an">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="XLk-wd-0an">
                                 <rect key="frame" x="33" y="519" width="349" height="197"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -9925,7 +9940,7 @@ Os principais metodos de analise sao :</string>
                         <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Nu2-l3-tHO">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="Nu2-l3-tHO">
                                 <rect key="frame" x="33" y="519" width="349" height="197"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -9939,7 +9954,7 @@ Os principais metodos de analise sao :</string>
                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
                             </imageView>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="bBV-eT-ak8">
-                                <rect key="frame" x="20" y="143" width="374" height="573"/>
+                                <rect key="frame" x="20" y="143" width="374" height="527"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="28"/>
                                 <state key="normal" title="Clique na tela para PLAY">
@@ -9978,7 +9993,7 @@ Os principais metodos de analise sao :</string>
                                     <action selector="play:" destination="8O8-vm-lId" eventType="touchUpInside" id="tnW-dQ-sEW"/>
                                 </connections>
                             </button>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Ihz-fe-7dp">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="Ihz-fe-7dp">
                                 <rect key="frame" x="33" y="519" width="349" height="197"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -10083,7 +10098,7 @@ Os principais metodos de analise sao :</string>
                         <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="1rx-n6-Eb1">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="1rx-n6-Eb1">
                                 <rect key="frame" x="33" y="519" width="349" height="197"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -10140,7 +10155,7 @@ Os principais metodos de analise sao :</string>
                                     <action selector="play:" destination="8O8-vm-lId" eventType="touchUpInside" id="RsC-z0-uZO"/>
                                 </connections>
                             </button>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="K00-lv-m9t">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="K00-lv-m9t">
                                 <rect key="frame" x="33" y="493" width="349" height="197"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -10203,6 +10218,7 @@ Os principais metodos de analise sao :</string>
         <image name="ll" width="340" height="114"/>
         <image name="llll" width="338" height="126"/>
         <image name="modelos" width="643" height="862"/>
+        <image name="moneyyyy" width="355" height="182"/>
         <image name="need" width="516" height="200"/>
         <image name="notacao polonesa" width="637" height="942"/>
         <image name="payback" width="371" height="188"/>

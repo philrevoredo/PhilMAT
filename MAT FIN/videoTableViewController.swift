@@ -109,7 +109,7 @@ let myiamges:[UIImage] = [#imageLiteral(resourceName: "film"),#imageLiteral(reso
             
             if indexPath.row == 0
             {
-                 cell.textLabel?.numberOfLines = 5
+                 cell.textLabel?.numberOfLines = 3
                 cell.backgroundColor = FlatSand().darken(byPercentage: 0.0/2)
                 
                         }else if indexPath.row == 1{

@@ -11,6 +11,7 @@ import ChameleonFramework
 
 class inflacaoViewController: UIViewController,UIScrollViewDelegate {
 
+    @IBOutlet weak var yy: UILabel!
     @IBOutlet var gg: UIView!
    
     @IBOutlet weak var rr: UIView!
@@ -22,6 +23,8 @@ class inflacaoViewController: UIViewController,UIScrollViewDelegate {
         aa.layer.masksToBounds = true
         view.setGradientBackground(colorOne: FlatSand() , colorTwo: FlatWhite())
         gg.setGradientBackground(colorOne: FlatSand(), colorTwo: FlatWhite())
+        yy.layer.borderColor = UIColor.black.cgColor
+        yy.layer.borderWidth = 3.0
         pp.delegate = self
         pp.contentOffset = CGPoint(x: 500, y: 200)
         
