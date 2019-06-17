@@ -90,6 +90,11 @@ let myiamges:[UIImage] = [#imageLiteral(resourceName: "film"),#imageLiteral(reso
         override func tableView(_ tableView:UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
             let cell =  tableView.dequeueReusableCell(withIdentifier: "videocell", for: indexPath)
             
+            
+            
+            
+            cell.textLabel?.adjustsFontSizeToFitWidth = true
+            cell.textLabel?.minimumScaleFactor = 0.25
             cell.textLabel?.text = itemarray9[indexPath.row]
              cell.textLabel?.numberOfLines = 5
             cell.imageView?.image = myiamges[indexPath.row]
@@ -104,7 +109,7 @@ let myiamges:[UIImage] = [#imageLiteral(resourceName: "film"),#imageLiteral(reso
             
             if indexPath.row == 0
             {
-                
+                 cell.textLabel?.numberOfLines = 5
                 cell.backgroundColor = FlatSand().darken(byPercentage: 0.0/2)
                 
                         }else if indexPath.row == 1{
