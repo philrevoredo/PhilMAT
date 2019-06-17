@@ -1,0 +1,44 @@
+//
+//  video2ViewController.swift
+//  R&R
+//
+//  Created by Isa Richter on 07/05/19.
+//  Copyright © 2019 Philippe Richter. All rights reserved.
+//
+
+import UIKit
+import AVKit
+
+class video2ViewController: UIViewController {
+
+    
+    @IBAction func play2(_ sender: Any) {
+        
+        
+        if let path = Bundle.main.path(forResource: "juroscompostos1", ofType: "mov")
+        {
+            let video = AVPlayer(url: URL(fileURLWithPath: path))
+            let videoPlayer = AVPlayerViewController()
+            videoPlayer.player = video
+            
+            present(videoPlayer, animated: true, completion:
+                {
+                    video.play()
+            })
+            
+        }
+        
+    }
+        
+    
+    
+    
+    override func viewDidLoad() {
+        super.viewDidLoad()
+
+        
+    }
+    
+
+  
+}

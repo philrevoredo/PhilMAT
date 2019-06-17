@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		2DEF62185F46E2B55C385B44 /* Pods_HP_12_C_002.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2E2C6DF2A08518F1989891C0 /* Pods_HP_12_C_002.framework */; };
 		391B80A7227651DC00F904BF /* teclasalarajasViewController copy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 391B80A6227651DC00F904BF /* teclasalarajasViewController copy.swift */; };
 		392A63E822665E560067C898 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 392A63E722665E560067C898 /* AppDelegate.swift */; };
 		392A63EA22665E560067C898 /* hpViewcontroller.swift in Sources */ = {isa = PBXBuildFile; fileRef = 392A63E922665E560067C898 /* hpViewcontroller.swift */; };
@@ -23,6 +22,10 @@
 		392A640E2267FB1F0067C898 /* aula77.swift in Sources */ = {isa = PBXBuildFile; fileRef = 392A640D2267FB1F0067C898 /* aula77.swift */; };
 		392A64102267FF860067C898 /* aula88.swift in Sources */ = {isa = PBXBuildFile; fileRef = 392A640F2267FF860067C898 /* aula88.swift */; };
 		392A6412226803E30067C898 /* lemon_milk in Resources */ = {isa = PBXBuildFile; fileRef = 392A6411226803E30067C898 /* lemon_milk */; };
+		3939F93D228D0231000D834B /* desconto composto racional.mov in Resources */ = {isa = PBXBuildFile; fileRef = 3939F93C228D0230000D834B /* desconto composto racional.mov */; };
+		3939F93F228D0291000D834B /* compostdescracViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3939F93E228D0291000D834B /* compostdescracViewController.swift */; };
+		3939F941228D0C81000D834B /* composto desc comercial.mov in Resources */ = {isa = PBXBuildFile; fileRef = 3939F940228D0C81000D834B /* composto desc comercial.mov */; };
+		3939F943228D0D36000D834B /* desccompostocomercialViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3939F942228D0D36000D834B /* desccompostocomercialViewController.swift */; };
 		3946D91C2289098100CDE6B8 /* xx.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 3946D91B2289098100CDE6B8 /* xx.mp4 */; };
 		3946D91E2289130300CDE6B8 /* pmt.mov in Resources */ = {isa = PBXBuildFile; fileRef = 3946D91D2289130300CDE6B8 /* pmt.mov */; };
 		3952CD3322793C4700ECAE6D /* concdescontoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3952CD3222793C4700ECAE6D /* concdescontoViewController.swift */; };
@@ -33,6 +36,14 @@
 		3952CD3D22794A8600ECAE6D /* trazpresenteViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3952CD3C22794A8600ECAE6D /* trazpresenteViewController.swift */; };
 		39561DC0227250CF007040B8 /* teclasfinanceirasbasicasViewController copy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39561DBF227250CF007040B8 /* teclasfinanceirasbasicasViewController copy.swift */; };
 		39561DC222725221007040B8 /* teclasazuisViewController copy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39561DC122725221007040B8 /* teclasazuisViewController copy.swift */; };
+		39583EB02293A9C80089A174 /* Sactable.mov in Resources */ = {isa = PBXBuildFile; fileRef = 39583EAF2293A9C80089A174 /* Sactable.mov */; };
+		39583EB22293AAA80089A174 /* sactableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39583EB12293AAA80089A174 /* sactableViewController.swift */; };
+		39583EB42294E8D30089A174 /* inflação.mov in Resources */ = {isa = PBXBuildFile; fileRef = 39583EB32294E8D30089A174 /* inflação.mov */; };
+		39583EB62294E9530089A174 /* inflaçnnaoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39583EB52294E9530089A174 /* inflaçnnaoViewController.swift */; };
+		39583EB82294EB700089A174 /* aposentaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39583EB72294EB700089A174 /* aposentaViewController.swift */; };
+		39583EBC2294F0900089A174 /* diferiViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39583EBB2294F0900089A174 /* diferiViewController.swift */; };
+		39583EC02294F3E10089A174 /* IMG_3442.TRIM.mov in Resources */ = {isa = PBXBuildFile; fileRef = 39583EBF2294F3E10089A174 /* IMG_3442.TRIM.mov */; };
+		39583EC22294F4860089A174 /* IMG_3450.TRIM.mov in Resources */ = {isa = PBXBuildFile; fileRef = 39583EC12294F4860089A174 /* IMG_3450.TRIM.mov */; };
 		396DF591227DFB6700056AE6 /* taxacompostosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 396DF590227DFB6700056AE6 /* taxacompostosViewController.swift */; };
 		396DF593227DFEBD00056AE6 /* desccompostoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 396DF592227DFEBD00056AE6 /* desccompostoViewController.swift */; };
 		396DF595227E02A700056AE6 /* vpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 396DF594227E02A700056AE6 /* vpViewController.swift */; };
@@ -66,10 +77,17 @@
 		399E6C922281F92A00AB7815 /* videoTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 399E6C912281F92900AB7815 /* videoTableViewController.swift */; };
 		399E6C942282107C00AB7815 /* video1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 399E6C932282107C00AB7815 /* video1ViewController.swift */; };
 		399E6C9622821D2800AB7815 /* video1.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 399E6C9522821D2700AB7815 /* video1.mp4 */; };
+		399F05FD22B74ED100C7C16E /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 399F05FC22B74ED100C7C16E /* Default-568h@2x.png */; };
+		399F060522B7EE2C00C7C16E /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 399F060422B7EE2C00C7C16E /* CoreGraphics.framework */; };
+		399F060722B7EE3E00C7C16E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 399F060622B7EE3E00C7C16E /* Foundation.framework */; };
+		399F060922B7EE4F00C7C16E /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 399F060822B7EE4F00C7C16E /* QuartzCore.framework */; };
+		399F060B22B7EE5900C7C16E /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 399F060A22B7EE5800C7C16E /* UIKit.framework */; };
 		39B0973A22724A6000351693 /* teclashpessenciaisViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39B0973922724A6000351693 /* teclashpessenciaisViewController.swift */; };
 		39C3A6D9227D063900737932 /* FluxodecaixaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39C3A6D8227D063900737932 /* FluxodecaixaViewController.swift */; };
 		39C3A6DB227D083E00737932 /* taxasViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39C3A6DA227D083E00737932 /* taxasViewController.swift */; };
 		39C3A6DD227D0F5C00737932 /* jurcompoteclahpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39C3A6DC227D0F5C00737932 /* jurcompoteclahpViewController.swift */; };
+		39C4BD4922935FC200F084B2 /* pricevViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39C4BD4822935FC200F084B2 /* pricevViewController.swift */; };
+		39C4BD4C2293862C00F084B2 /* pricee.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 39C4BD4B2293862C00F084B2 /* pricee.mp4 */; };
 		39C523D4227E4AA100F88390 /* dedeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39C523D3227E4AA100F88390 /* dedeViewController.swift */; };
 		39D9BC2F2270F886009B4206 /* introdhp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39D9BC2E2270F886009B4206 /* introdhp.swift */; };
 		39D9BC3A22710FB1009B4206 /* secondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39D9BC3922710FB1009B4206 /* secondViewController.swift */; };
@@ -86,12 +104,12 @@
 		39E749C9227663360097A389 /* conceitosjurossimples copy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39E749C8227663360097A389 /* conceitosjurossimples copy.swift */; };
 		39E749CB227928E70097A389 /* taxasequiViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39E749CA227928E70097A389 /* taxasequiViewController.swift */; };
 		39E749CD227938190097A389 /* taxaspropViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39E749CC227938190097A389 /* taxaspropViewController.swift */; };
+		55EE90632DCE9E8F326D2A53 /* Pods_MAT_FIN.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9DECAE4F33D730E2D0BE40B2 /* Pods_MAT_FIN.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		2E2C6DF2A08518F1989891C0 /* Pods_HP_12_C_002.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HP_12_C_002.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		391B80A6227651DC00F904BF /* teclasalarajasViewController copy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "teclasalarajasViewController copy.swift"; sourceTree = "<group>"; };
-		392A63E422665E560067C898 /* R&R.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "R&R.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		392A63E422665E560067C898 /* MAT FIN.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "MAT FIN.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		392A63E722665E560067C898 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		392A63E922665E560067C898 /* hpViewcontroller.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hpViewcontroller.swift; sourceTree = "<group>"; };
 		392A63EC22665E560067C898 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -107,6 +125,10 @@
 		392A640D2267FB1F0067C898 /* aula77.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = aula77.swift; sourceTree = "<group>"; };
 		392A640F2267FF860067C898 /* aula88.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = aula88.swift; sourceTree = "<group>"; };
 		392A6411226803E30067C898 /* lemon_milk */ = {isa = PBXFileReference; lastKnownFileType = folder; path = lemon_milk; sourceTree = "<group>"; };
+		3939F93C228D0230000D834B /* desconto composto racional.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "desconto composto racional.mov"; sourceTree = "<group>"; };
+		3939F93E228D0291000D834B /* compostdescracViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = compostdescracViewController.swift; sourceTree = "<group>"; };
+		3939F940228D0C81000D834B /* composto desc comercial.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "composto desc comercial.mov"; sourceTree = "<group>"; };
+		3939F942228D0D36000D834B /* desccompostocomercialViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = desccompostocomercialViewController.swift; sourceTree = "<group>"; };
 		3946D91B2289098100CDE6B8 /* xx.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = xx.mp4; sourceTree = "<group>"; };
 		3946D91D2289130300CDE6B8 /* pmt.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = pmt.mov; sourceTree = "<group>"; };
 		3952CD3222793C4700ECAE6D /* concdescontoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = concdescontoViewController.swift; sourceTree = "<group>"; };
@@ -117,6 +139,15 @@
 		3952CD3C22794A8600ECAE6D /* trazpresenteViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = trazpresenteViewController.swift; sourceTree = "<group>"; };
 		39561DBF227250CF007040B8 /* teclasfinanceirasbasicasViewController copy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "teclasfinanceirasbasicasViewController copy.swift"; sourceTree = "<group>"; };
 		39561DC122725221007040B8 /* teclasazuisViewController copy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "teclasazuisViewController copy.swift"; sourceTree = "<group>"; };
+		39583EAF2293A9C80089A174 /* Sactable.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Sactable.mov; sourceTree = "<group>"; };
+		39583EB12293AAA80089A174 /* sactableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sactableViewController.swift; sourceTree = "<group>"; };
+		39583EB32294E8D30089A174 /* inflação.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "inflação.mov"; sourceTree = "<group>"; };
+		39583EB52294E9530089A174 /* inflaçnnaoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "inflaçnnaoViewController.swift"; sourceTree = "<group>"; };
+		39583EB72294EB700089A174 /* aposentaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = aposentaViewController.swift; sourceTree = "<group>"; };
+		39583EBA2294F0570089A174 /* fck.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = fck.mov; sourceTree = "<group>"; };
+		39583EBB2294F0900089A174 /* diferiViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = diferiViewController.swift; sourceTree = "<group>"; };
+		39583EBF2294F3E10089A174 /* IMG_3442.TRIM.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = IMG_3442.TRIM.mov; sourceTree = "<group>"; };
+		39583EC12294F4860089A174 /* IMG_3450.TRIM.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = IMG_3450.TRIM.mov; sourceTree = "<group>"; };
 		396DF590227DFB6700056AE6 /* taxacompostosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = taxacompostosViewController.swift; sourceTree = "<group>"; };
 		396DF592227DFEBD00056AE6 /* desccompostoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = desccompostoViewController.swift; sourceTree = "<group>"; };
 		396DF594227E02A700056AE6 /* vpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = vpViewController.swift; sourceTree = "<group>"; };
@@ -150,10 +181,18 @@
 		399E6C912281F92900AB7815 /* videoTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = videoTableViewController.swift; sourceTree = "<group>"; };
 		399E6C932282107C00AB7815 /* video1ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = video1ViewController.swift; sourceTree = "<group>"; };
 		399E6C9522821D2700AB7815 /* video1.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = video1.mp4; sourceTree = "<group>"; };
+		399F05FC22B74ED100C7C16E /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		399F060422B7EE2C00C7C16E /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		399F060622B7EE3E00C7C16E /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		399F060822B7EE4F00C7C16E /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		399F060A22B7EE5800C7C16E /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		39B0973922724A6000351693 /* teclashpessenciaisViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = teclashpessenciaisViewController.swift; sourceTree = "<group>"; };
 		39C3A6D8227D063900737932 /* FluxodecaixaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FluxodecaixaViewController.swift; sourceTree = "<group>"; };
 		39C3A6DA227D083E00737932 /* taxasViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = taxasViewController.swift; sourceTree = "<group>"; };
 		39C3A6DC227D0F5C00737932 /* jurcompoteclahpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = jurcompoteclahpViewController.swift; sourceTree = "<group>"; };
+		39C4BD4822935FC200F084B2 /* pricevViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pricevViewController.swift; sourceTree = "<group>"; };
+		39C4BD4A2293623900F084B2 /* yyy.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = yyy.mov; sourceTree = "<group>"; };
+		39C4BD4B2293862C00F084B2 /* pricee.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = pricee.mp4; sourceTree = "<group>"; };
 		39C523D3227E4AA100F88390 /* dedeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dedeViewController.swift; sourceTree = "<group>"; };
 		39D9BC2E2270F886009B4206 /* introdhp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = introdhp.swift; sourceTree = "<group>"; };
 		39D9BC3922710FB1009B4206 /* secondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secondViewController.swift; sourceTree = "<group>"; };
@@ -170,8 +209,9 @@
 		39E749C8227663360097A389 /* conceitosjurossimples copy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "conceitosjurossimples copy.swift"; sourceTree = "<group>"; };
 		39E749CA227928E70097A389 /* taxasequiViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = taxasequiViewController.swift; sourceTree = "<group>"; };
 		39E749CC227938190097A389 /* taxaspropViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = taxaspropViewController.swift; sourceTree = "<group>"; };
-		74ACDF8F946BCAA91E277FDD /* Pods-HP 12 C 002.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HP 12 C 002.release.xcconfig"; path = "Target Support Files/Pods-HP 12 C 002/Pods-HP 12 C 002.release.xcconfig"; sourceTree = "<group>"; };
-		831292DA34B5904BFC61D8F6 /* Pods-HP 12 C 002.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HP 12 C 002.debug.xcconfig"; path = "Target Support Files/Pods-HP 12 C 002/Pods-HP 12 C 002.debug.xcconfig"; sourceTree = "<group>"; };
+		53A73F021C03892F7E3C97F0 /* Pods-MAT FIN.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MAT FIN.debug.xcconfig"; path = "Target Support Files/Pods-MAT FIN/Pods-MAT FIN.debug.xcconfig"; sourceTree = "<group>"; };
+		9DECAE4F33D730E2D0BE40B2 /* Pods_MAT_FIN.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MAT_FIN.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		FDAF26A4D275F70B89996143 /* Pods-MAT FIN.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MAT FIN.release.xcconfig"; path = "Target Support Files/Pods-MAT FIN/Pods-MAT FIN.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -179,7 +219,11 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2DEF62185F46E2B55C385B44 /* Pods_HP_12_C_002.framework in Frameworks */,
+				399F060B22B7EE5900C7C16E /* UIKit.framework in Frameworks */,
+				399F060922B7EE4F00C7C16E /* QuartzCore.framework in Frameworks */,
+				399F060722B7EE3E00C7C16E /* Foundation.framework in Frameworks */,
+				399F060522B7EE2C00C7C16E /* CoreGraphics.framework in Frameworks */,
+				55EE90632DCE9E8F326D2A53 /* Pods_MAT_FIN.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -189,8 +233,8 @@
 		1C82C568C9DAA5C83851D5AC /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				831292DA34B5904BFC61D8F6 /* Pods-HP 12 C 002.debug.xcconfig */,
-				74ACDF8F946BCAA91E277FDD /* Pods-HP 12 C 002.release.xcconfig */,
+				53A73F021C03892F7E3C97F0 /* Pods-MAT FIN.debug.xcconfig */,
+				FDAF26A4D275F70B89996143 /* Pods-MAT FIN.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -198,6 +242,16 @@
 		392A63DB22665E560067C898 = {
 			isa = PBXGroup;
 			children = (
+				399F05FC22B74ED100C7C16E /* Default-568h@2x.png */,
+				39583EC12294F4860089A174 /* IMG_3450.TRIM.mov */,
+				39583EBF2294F3E10089A174 /* IMG_3442.TRIM.mov */,
+				39583EBA2294F0570089A174 /* fck.mov */,
+				39583EB32294E8D30089A174 /* inflação.mov */,
+				39583EAF2293A9C80089A174 /* Sactable.mov */,
+				39C4BD4B2293862C00F084B2 /* pricee.mp4 */,
+				39C4BD4A2293623900F084B2 /* yyy.mov */,
+				3939F940228D0C81000D834B /* composto desc comercial.mov */,
+				3939F93C228D0230000D834B /* desconto composto racional.mov */,
 				39E5E5F5228A7C6F00454C53 /* pp.mov */,
 				39E5E5EF228A79A900454C53 /* kk.mov */,
 				39E5E5ED228A793E00454C53 /* ii.mov */,
@@ -219,7 +273,7 @@
 		392A63E522665E560067C898 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				392A63E422665E560067C898 /* R&R.app */,
+				392A63E422665E560067C898 /* MAT FIN.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -227,6 +281,13 @@
 		392A63E622665E560067C898 /* HP 12 C 002 */ = {
 			isa = PBXGroup;
 			children = (
+				39583EBB2294F0900089A174 /* diferiViewController.swift */,
+				39583EB72294EB700089A174 /* aposentaViewController.swift */,
+				39583EB52294E9530089A174 /* inflaçnnaoViewController.swift */,
+				39583EB12293AAA80089A174 /* sactableViewController.swift */,
+				39C4BD4822935FC200F084B2 /* pricevViewController.swift */,
+				3939F942228D0D36000D834B /* desccompostocomercialViewController.swift */,
+				3939F93E228D0291000D834B /* compostdescracViewController.swift */,
 				39D9BC3F227114B6009B4206 /* constant.swift */,
 				39D9BC3D2271139D009B4206 /* File.swift */,
 				39D9BC2E2270F886009B4206 /* introdhp.swift */,
@@ -247,7 +308,8 @@
 				392A6411226803E30067C898 /* lemon_milk */,
 				392A63F322665E570067C898 /* Info.plist */,
 			);
-			path = "HP 12 C 002";
+			name = "HP 12 C 002";
+			path = "MAT FIN";
 			sourceTree = "<group>";
 		};
 		39C523D2227E4A8E00F88390 /* New Group */ = {
@@ -316,9 +378,13 @@
 		3DFFD9580C72AF05D77CA40C /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				399F060A22B7EE5800C7C16E /* UIKit.framework */,
+				399F060822B7EE4F00C7C16E /* QuartzCore.framework */,
+				399F060622B7EE3E00C7C16E /* Foundation.framework */,
+				399F060422B7EE2C00C7C16E /* CoreGraphics.framework */,
 				39C523D2227E4A8E00F88390 /* New Group */,
-				2E2C6DF2A08518F1989891C0 /* Pods_HP_12_C_002.framework */,
 				39D9BC3922710FB1009B4206 /* secondViewController.swift */,
+				9DECAE4F33D730E2D0BE40B2 /* Pods_MAT_FIN.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -326,23 +392,23 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		392A63E322665E560067C898 /* R&R */ = {
+		392A63E322665E560067C898 /* MAT FIN */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 392A63F622665E570067C898 /* Build configuration list for PBXNativeTarget "R&R" */;
+			buildConfigurationList = 392A63F622665E570067C898 /* Build configuration list for PBXNativeTarget "MAT FIN" */;
 			buildPhases = (
-				2B8C1FC9A1E631E6341F3C79 /* [CP] Check Pods Manifest.lock */,
+				114A1D5B2E8DA12170226DF5 /* [CP] Check Pods Manifest.lock */,
 				392A63E022665E560067C898 /* Sources */,
 				392A63E122665E560067C898 /* Frameworks */,
 				392A63E222665E560067C898 /* Resources */,
-				77445BE197E5792EA1C4A563 /* [CP] Embed Pods Frameworks */,
+				D83BACDF42ADE1BC0CEAAC2F /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "R&R";
+			name = "MAT FIN";
 			productName = "HP 12 C 002";
-			productReference = 392A63E422665E560067C898 /* R&R.app */;
+			productReference = 392A63E422665E560067C898 /* MAT FIN.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -360,7 +426,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 392A63DF22665E560067C898 /* Build configuration list for PBXProject "R&R" */;
+			buildConfigurationList = 392A63DF22665E560067C898 /* Build configuration list for PBXProject "MAT FIN" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -373,7 +439,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				392A63E322665E560067C898 /* R&R */,
+				392A63E322665E560067C898 /* MAT FIN */,
 			);
 		};
 /* End PBXProject section */
@@ -387,12 +453,20 @@
 				392A63F222665E570067C898 /* LaunchScreen.storyboard in Resources */,
 				39E5E5F6228A7C7000454C53 /* pp.mov in Resources */,
 				399E6C9622821D2800AB7815 /* video1.mp4 in Resources */,
+				39583EC22294F4860089A174 /* IMG_3450.TRIM.mov in Resources */,
 				398BE0B62286327700538991 /* juroscompostos1.mov in Resources */,
+				39583EC02294F3E10089A174 /* IMG_3442.TRIM.mov in Resources */,
 				3946D91C2289098100CDE6B8 /* xx.mp4 in Resources */,
+				39583EB02293A9C80089A174 /* Sactable.mov in Resources */,
 				39E5E5F0228A79A900454C53 /* kk.mov in Resources */,
+				3939F93D228D0231000D834B /* desconto composto racional.mov in Resources */,
 				39E5E5EE228A793E00454C53 /* ii.mov in Resources */,
+				39583EB42294E8D30089A174 /* inflação.mov in Resources */,
 				398BE0BC22877EBC00538991 /* 123.mov in Resources */,
+				3939F941228D0C81000D834B /* composto desc comercial.mov in Resources */,
+				39C4BD4C2293862C00F084B2 /* pricee.mp4 in Resources */,
 				3946D91E2289130300CDE6B8 /* pmt.mov in Resources */,
+				399F05FD22B74ED100C7C16E /* Default-568h@2x.png in Resources */,
 				399E6C902281F68D00AB7815 /* video.mp4 in Resources */,
 				398BE0BA2287778700538991 /* Taxaefetivadejuros.mov in Resources */,
 				392A6412226803E30067C898 /* lemon_milk in Resources */,
@@ -404,7 +478,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		2B8C1FC9A1E631E6341F3C79 /* [CP] Check Pods Manifest.lock */ = {
+		114A1D5B2E8DA12170226DF5 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -419,28 +493,28 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-HP 12 C 002-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-MAT FIN-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		77445BE197E5792EA1C4A563 /* [CP] Embed Pods Frameworks */ = {
+		D83BACDF42ADE1BC0CEAAC2F /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-HP 12 C 002/Pods-HP 12 C 002-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-MAT FIN/Pods-MAT FIN-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-HP 12 C 002/Pods-HP 12 C 002-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-MAT FIN/Pods-MAT FIN-frameworks-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-HP 12 C 002/Pods-HP 12 C 002-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-MAT FIN/Pods-MAT FIN-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
@@ -453,6 +527,7 @@
 				392A640A2267DB500067C898 /* aula44.swift in Sources */,
 				392A63EA22665E560067C898 /* hpViewcontroller.swift in Sources */,
 				39E5E5F2228A7B1600454C53 /* video7ViewController.swift in Sources */,
+				3939F943228D0D36000D834B /* desccompostocomercialViewController.swift in Sources */,
 				392A63FA22678A660067C898 /* aula1.swift in Sources */,
 				39561DC0227250CF007040B8 /* teclasfinanceirasbasicasViewController copy.swift in Sources */,
 				399E6C942282107C00AB7815 /* video1ViewController.swift in Sources */,
@@ -460,6 +535,7 @@
 				399B7C32227E5DF2008E41A7 /* intavalViewController.swift in Sources */,
 				39C3A6DD227D0F5C00737932 /* jurcompoteclahpViewController.swift in Sources */,
 				398BE0B022825F1200538991 /* video5ViewController.swift in Sources */,
+				39583EBC2294F0900089A174 /* diferiViewController.swift in Sources */,
 				392A64102267FF860067C898 /* aula88.swift in Sources */,
 				396DF591227DFB6700056AE6 /* taxacompostosViewController.swift in Sources */,
 				3952CD39227946B400ECAE6D /* custoefetivodescViewController.swift in Sources */,
@@ -486,9 +562,11 @@
 				392A64002267D8AD0067C898 /* aula5.swift in Sources */,
 				399B7C2F227E5A83008E41A7 /* pmtunicoViewController.swift in Sources */,
 				398BE0AC22825EB700538991 /* video3ViewController.swift in Sources */,
+				39C4BD4922935FC200F084B2 /* pricevViewController.swift in Sources */,
 				39E749C9227663360097A389 /* conceitosjurossimples copy.swift in Sources */,
 				399B7C3E227F4C48008E41A7 /* fininflacaoViewController.swift in Sources */,
 				398BE0B222825F3D00538991 /* video6ViewController.swift in Sources */,
+				39583EB62294E9530089A174 /* inflaçnnaoViewController.swift in Sources */,
 				392A63E822665E560067C898 /* AppDelegate.swift in Sources */,
 				39C3A6DB227D083E00737932 /* taxasViewController.swift in Sources */,
 				39D9BC492271368F009B4206 /* sistemaPolonesViewController.swift in Sources */,
@@ -496,6 +574,8 @@
 				3952CD3322793C4700ECAE6D /* concdescontoViewController.swift in Sources */,
 				399B7C29227E56DA008E41A7 /* PRICEViewController.swift in Sources */,
 				39E749CD227938190097A389 /* taxaspropViewController.swift in Sources */,
+				3939F93F228D0291000D834B /* compostdescracViewController.swift in Sources */,
+				39583EB82294EB700089A174 /* aposentaViewController.swift in Sources */,
 				399B7C2D227E5984008E41A7 /* americanoViewController.swift in Sources */,
 				399B7C2B227E58A1008E41A7 /* introducamortViewController.swift in Sources */,
 				39B0973A22724A6000351693 /* teclashpessenciaisViewController.swift in Sources */,
@@ -509,6 +589,7 @@
 				399B7C38227F496C008E41A7 /* inflacaoViewController.swift in Sources */,
 				399E6C922281F92A00AB7815 /* videoTableViewController.swift in Sources */,
 				39D9BC2F2270F886009B4206 /* introdhp.swift in Sources */,
+				39583EB22293AAA80089A174 /* sactableViewController.swift in Sources */,
 				39C3A6D9227D063900737932 /* FluxodecaixaViewController.swift in Sources */,
 				399B7C1F227E4E04008E41A7 /* anuidadesViewController.swift in Sources */,
 				396DF597227E04E700056AE6 /* IRRcompViewController.swift in Sources */,
@@ -656,12 +737,13 @@
 		};
 		392A63F722665E570067C898 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 831292DA34B5904BFC61D8F6 /* Pods-HP 12 C 002.debug.xcconfig */;
+			baseConfigurationReference = 53A73F021C03892F7E3C97F0 /* Pods-MAT FIN.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 6T2CN9FK4S;
-				INFOPLIST_FILE = "HP 12 C 002/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/MAT FIN/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -675,12 +757,13 @@
 		};
 		392A63F822665E570067C898 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 74ACDF8F946BCAA91E277FDD /* Pods-HP 12 C 002.release.xcconfig */;
+			baseConfigurationReference = FDAF26A4D275F70B89996143 /* Pods-MAT FIN.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 6T2CN9FK4S;
-				INFOPLIST_FILE = "HP 12 C 002/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/MAT FIN/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -695,7 +778,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		392A63DF22665E560067C898 /* Build configuration list for PBXProject "R&R" */ = {
+		392A63DF22665E560067C898 /* Build configuration list for PBXProject "MAT FIN" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				392A63F422665E570067C898 /* Debug */,
@@ -704,7 +787,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		392A63F622665E570067C898 /* Build configuration list for PBXNativeTarget "R&R" */ = {
+		392A63F622665E570067C898 /* Build configuration list for PBXNativeTarget "MAT FIN" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				392A63F722665E570067C898 /* Debug */,
