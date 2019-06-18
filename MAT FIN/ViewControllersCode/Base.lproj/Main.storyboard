@@ -1295,7 +1295,7 @@ indicado a seguir, para uma taxa efetiva de 9% ao ano, com um investimento inici
                                         <rect key="frame" x="0.0" y="0.0" width="414" height="2500"/>
                                         <subviews>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="71y-AB-Bde">
-                                                <rect key="frame" x="22" y="839" width="368" height="940"/>
+                                                <rect key="frame" x="22" y="797" width="368" height="797"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                 <color key="backgroundColor" red="1" green="0.63509179270000005" blue="0.58795608460000004" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
@@ -1313,7 +1313,7 @@ indicado a seguir, para uma taxa efetiva de 9% ao ano, com um investimento inici
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="wWM-3K-3Ng">
                                                 <rect key="frame" x="59" y="140" width="318" height="174"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" heightSizable="YES" flexibleMaxY="YES"/>
-                                                <string key="text">•Inflação é um termo que remete basicamente a um aumento generalizado do preços na economia. Indicamos esse valor por uma taxa(%) que indica a variação percentual dos preços.</string>
+                                                <string key="text">•Inflação é um termo que remete basicamente a um aumento generalizado dos preços na economia. Indicamos esse valor por uma taxa(%) que indica a variação percentual dos preços.</string>
                                                 <fontDescription key="fontDescription" name="Copperplate-Bold" family="Copperplate" pointSize="25"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
@@ -1327,7 +1327,7 @@ indicado a seguir, para uma taxa efetiva de 9% ao ano, com um investimento inici
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="XGF-3R-3UC">
-                                                <rect key="frame" x="38" y="848" width="339" height="141"/>
+                                                <rect key="frame" x="37" y="808" width="339" height="141"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" heightSizable="YES" flexibleMaxY="YES"/>
                                                 <string key="text">•Inflação de demanda-Esse tipo de inflação é caracterizado pelo forte  aumento da demanda em relação a oferta, assim elevando os preços.</string>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="18"/>
@@ -1335,7 +1335,7 @@ indicado a seguir, para uma taxa efetiva de 9% ao ano, com um investimento inici
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="UWi-VR-JaM">
-                                                <rect key="frame" x="48" y="997" width="329" height="150"/>
+                                                <rect key="frame" x="37" y="939" width="329" height="150"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" heightSizable="YES" flexibleMaxY="YES"/>
                                                 <string key="text">Inflação de custos-Esse tipo de inflação acontece quando uma matéria prima basica encarece e esse custo é repassado aos preços finais, encarecendo o produto.</string>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="18"/>
@@ -1343,7 +1343,7 @@ indicado a seguir, para uma taxa efetiva de 9% ao ano, com um investimento inici
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="2Hf-58-Zdq">
-                                                <rect key="frame" x="48" y="1167" width="318" height="208"/>
+                                                <rect key="frame" x="37" y="1083" width="318" height="178"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" heightSizable="YES" flexibleMaxY="YES"/>
                                                 <string key="text">•Inflação inercial-Esse tipo de inflação ocorre por inércia ou por motivações psicologicas das massas. Se muitas pessoas acreditam que a inflação irá aumentar torna-se bastante possível que isso ocorra por inércia.</string>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="18"/>
@@ -1351,7 +1351,7 @@ indicado a seguir, para uma taxa efetiva de 9% ao ano, com um investimento inici
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="P0V-4p-bjp">
-                                                <rect key="frame" x="48" y="1395" width="318" height="188"/>
+                                                <rect key="frame" x="41" y="1257" width="318" height="158"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" heightSizable="YES" flexibleMaxY="YES"/>
                                                 <string key="text">•Inflação de Estrutural-Esse tipo de inflação se assemelha a inflação de custos porem direre no fato de que os produtos são encarecidos por uma falta de estrutura.</string>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="18"/>
@@ -1359,7 +1359,7 @@ indicado a seguir, para uma taxa efetiva de 9% ao ano, com um investimento inici
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="8hB-Fr-DAK">
-                                                <rect key="frame" x="48" y="1860" width="297" height="170"/>
+                                                <rect key="frame" x="48" y="1890" width="297" height="170"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" heightSizable="YES" flexibleMaxY="YES"/>
                                                 <string key="text">•Deflação é basicamente o processo reverso da inflação, ou seja, é a diminuição dos preços e o aumento do poder de compra da moeda. Para cada tipo de inflação, existe uma deflação correspondente.</string>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="18"/>
@@ -1367,7 +1367,7 @@ indicado a seguir, para uma taxa efetiva de 9% ao ano, com um investimento inici
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="QcB-f7-M0u">
-                                                <rect key="frame" x="48" y="2067" width="308" height="176"/>
+                                                <rect key="frame" x="48" y="2081" width="308" height="176"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" heightSizable="YES" flexibleMaxY="YES"/>
                                                 <string key="text"> IPCA(Índice de preços ao consumidor) é essencialmente o índice oficial que registra a inflação no Brasil. Esse índice é renovado todo mês e é calculado sobre a renda média do brasileiro.</string>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="18"/>
@@ -1375,7 +1375,7 @@ indicado a seguir, para uma taxa efetiva de 9% ao ano, com um investimento inici
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="O IGP-M (Índice geral de preços no mercado) é o índice que mede o poder da compra da moeda através da variação dos preços." textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="Yha-IW-r3C">
-                                                <rect key="frame" x="48" y="2280" width="297" height="122"/>
+                                                <rect key="frame" x="48" y="2294" width="297" height="122"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" heightSizable="YES" flexibleMaxY="YES"/>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="18"/>
                                                 <nil key="textColor"/>
@@ -1390,7 +1390,7 @@ indicado a seguir, para uma taxa efetiva de 9% ao ano, com um investimento inici
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="gw7-V9-D9B">
-                                                <rect key="frame" x="0.0" y="2251" width="414" height="21"/>
+                                                <rect key="frame" x="0.0" y="2265" width="414" height="21"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" heightSizable="YES" flexibleMaxY="YES"/>
                                                 <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="18"/>
@@ -1398,7 +1398,7 @@ indicado a seguir, para uma taxa efetiva de 9% ao ano, com um investimento inici
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="qPq-Ns-R5K">
-                                                <rect key="frame" x="0.0" y="2038" width="414" height="21"/>
+                                                <rect key="frame" x="0.0" y="2068" width="414" height="21"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" heightSizable="YES" flexibleMaxY="YES"/>
                                                 <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="18"/>
@@ -1406,7 +1406,7 @@ indicado a seguir, para uma taxa efetiva de 9% ao ano, com um investimento inici
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="F9Z-cF-U0I">
-                                                <rect key="frame" x="0.0" y="1814" width="414" height="21"/>
+                                                <rect key="frame" x="0.0" y="1602" width="414" height="21"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" heightSizable="YES" flexibleMaxY="YES"/>
                                                 <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="18"/>
@@ -1422,7 +1422,7 @@ indicado a seguir, para uma taxa efetiva de 9% ao ano, com um investimento inici
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="5J7-pG-wwK">
-                                                <rect key="frame" x="48" y="1591" width="318" height="173"/>
+                                                <rect key="frame" x="38" y="1407" width="318" height="173"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" heightSizable="YES" flexibleMaxY="YES"/>
                                                 <string key="text">•Inflação gerada pela emissão de dinheiro-Esse tipo de inflação ocorre quando um banco central decide por mais dinheiro em circulação para estimular a economia. Assim, a inflação também cresce.</string>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="18"/>
@@ -1434,9 +1434,21 @@ indicado a seguir, para uma taxa efetiva de 9% ao ano, com um investimento inici
                                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                             </imageView>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="xPg-Mh-gg1">
-                                                <rect key="frame" x="26" y="673" width="352" height="167"/>
+                                                <rect key="frame" x="30" y="661" width="352" height="139"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" heightSizable="YES" flexibleMaxY="YES"/>
                                                 <string key="text"> •Existem tipos de Inflação que ocorrem por uma série de motivos: Inflação de demanda,Inflação de custos, Inflação inercial,Inflação estrutural. Vamos ver cada um desses tipos em maior detalhe:</string>
+                                                <fontDescription key="fontDescription" type="boldSystem" pointSize="18"/>
+                                                <nil key="textColor"/>
+                                                <nil key="highlightedColor"/>
+                                            </label>
+                                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="jimbob" translatesAutoresizingMaskIntoConstraints="NO" id="X3t-xW-ozT">
+                                                <rect key="frame" x="66" y="1631" width="269" height="225"/>
+                                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                            </imageView>
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="ESr-XJ-hOe">
+                                                <rect key="frame" x="0.0" y="1864" width="414" height="21"/>
+                                                <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" heightSizable="YES" flexibleMaxY="YES"/>
+                                                <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="18"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
@@ -1712,6 +1724,16 @@ indicado a seguir, para uma taxa efetiva de 9% ao ano, com um investimento inici
                                             <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="3Qd-26-fRC">
                                                 <rect key="frame" x="40" y="153" width="337" height="355"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" heightSizable="YES" flexibleMaxY="YES"/>
+                                                <subviews>
+                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="ktA-3p-nWQ">
+                                                        <rect key="frame" x="20" y="98" width="297" height="191"/>
+                                                        <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" heightSizable="YES" flexibleMaxY="YES"/>
+                                                        <string key="text">Um emprestimo de 5000 foi tomado e deve ser liquidado em 2 meses com prestações mensais identicas sendo que a primeira é uma entrada.Sabendo que a taxa de juros é de 3% ao mes e a taxa de IPCA mensal é 2% qual o valor da prestação mensal?</string>
+                                                        <fontDescription key="fontDescription" type="boldSystem" pointSize="17"/>
+                                                        <nil key="textColor"/>
+                                                        <nil key="highlightedColor"/>
+                                                    </label>
+                                                </subviews>
                                                 <color key="backgroundColor" red="1" green="0.63509179270000005" blue="0.58795608460000004" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                             </view>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="2hc-ju-FtJ">
@@ -1749,14 +1771,6 @@ indicado a seguir, para uma taxa efetiva de 9% ao ano, com um investimento inici
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Vamos agora ver um financiamento considerando-se a taxa de inflação:" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="Ch2-WJ-OYI">
                                                 <rect key="frame" x="59" y="153" width="297" height="110"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" heightSizable="YES" flexibleMaxY="YES"/>
-                                                <fontDescription key="fontDescription" type="boldSystem" pointSize="17"/>
-                                                <nil key="textColor"/>
-                                                <nil key="highlightedColor"/>
-                                            </label>
-                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="ktA-3p-nWQ">
-                                                <rect key="frame" x="59" y="295" width="297" height="250"/>
-                                                <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" heightSizable="YES" flexibleMaxY="YES"/>
-                                                <string key="text">Um emprestimo de 5000 foi tomado e deve ser liquidado em 2 meses com prestações mensais identicas sendo que a primeira é uma entrada.Sabendo que a taxa de juros é de 3% ao mes e a taxa de IPCA mensal é 2% qual o valor da prestação mensal?</string>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="17"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
@@ -1878,7 +1892,7 @@ indicado a seguir, para uma taxa efetiva de 9% ao ano, com um investimento inici
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="nwp-hl-T2t" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="10139.200000000001" y="3030.5847076461773"/>
+            <point key="canvasLocation" x="10139.13043478261" y="3030.163043478261"/>
         </scene>
         <!--Intaval View Controller-->
         <scene sceneID="URC-IR-Aea">
@@ -8474,7 +8488,7 @@ Os principais metodos de análise são :</string>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="CCG-Oy-hmR">
                                                 <rect key="frame" x="8" y="30" width="381" height="127"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
-                                                <string key="text">•Vimos no modulo passado as teclas básicas da HP 12C. Agora, veremos as teclas mais avançadas como as teclas financeiras. Será exibido em detalhe e passo a passo como resolver exercicios com essas teclas nas aulas.</string>
+                                                <string key="text">•Vimos no módulo passado as teclas básicas da HP 12C. Agora, veremos as teclas mais avançadas como as teclas financeiras. Será exibido em detalhe e passo a passo como resolver exercicios com essas teclas nas aulas.</string>
                                                 <fontDescription key="fontDescription" name="Rockwell-Italic" family="Rockwell" pointSize="19"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
@@ -10211,6 +10225,7 @@ Os principais metodos de análise são :</string>
         <image name="historia e caracteristicas" width="651" height="1051"/>
         <image name="ik" width="387" height="220"/>
         <image name="irrpic" width="424" height="188"/>
+        <image name="jimbob" width="230" height="225"/>
         <image name="juros12" width="614" height="265"/>
         <image name="juroscompostosformula1" width="713" height="288"/>
         <image name="jurossimplesformula1" width="706" height="231"/>
